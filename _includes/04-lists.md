@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- STRING
+- INTEGER
+- FLOAT
+  - These are datatypes
